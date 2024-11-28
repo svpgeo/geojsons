@@ -269,7 +269,8 @@
             },
             "properties": {
                 "FID": 0,
-                "Id": 0
+                "Id": 0,
+                "map-link-tiff": "GeoIntelX/Images/Maps/Ew1P48aYpm6RD45J6POO4YPR6_map_1_NONGEO.tif"
             }
         }
     ]
